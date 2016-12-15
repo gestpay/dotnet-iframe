@@ -1,0 +1,5 @@
+d:\documenti\visual studio 2010\Projects\iFrameProjectExample\iFrameProjectExample\bin\iFrameProjectExample.dll
+d:\documenti\visual studio 2010\Projects\iFrameProjectExample\iFrameProjectExample\bin\iFrameProjectExample.pdb
+d:\documenti\visual studio 2010\Projects\iFrameProjectExample\iFrameProjectExample\obj\Debug\ResolveAssemblyReference.cache
+d:\documenti\visual studio 2010\Projects\iFrameProjectExample\iFrameProjectExample\obj\Debug\iFrameProjectExample.dll
+d:\documenti\visual studio 2010\Projects\iFrameProjectExample\iFrameProjectExample\obj\Debug\iFrameProjectExample.pdb

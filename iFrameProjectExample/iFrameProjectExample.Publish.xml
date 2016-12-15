@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="True" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="response.aspx" publishTime="10/02/2014 17:04:14" />
+    <file relUrl="bin/iFrameProjectExample.pdb" publishTime="10/02/2014 18:49:00" />
+    <file relUrl="Web.config" publishTime="10/02/2014 17:06:19" />
+    <file relUrl="bin/iFrameProjectExample.dll" publishTime="10/02/2014 18:49:00" />
+    <file relUrl="Default.aspx" publishTime="10/02/2014 17:03:17" />
+  </publishProfile>
+</publishData>
