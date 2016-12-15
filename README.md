@@ -12,3 +12,4 @@ Before using, remember to:
 2. Register to Gestpay (test or production environment) and get a `shopLogin` 
 3. Configure the Merchant back office (test or production) to accept incoming requests from your IP address
 4. Configure the Merchant back office (test or production) withe the response urls. 
+5. insert your `shopLogin` in the respective `Default.aspx.cs` 
